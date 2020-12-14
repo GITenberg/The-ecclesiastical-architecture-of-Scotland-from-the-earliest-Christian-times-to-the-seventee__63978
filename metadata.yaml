@@ -1,7 +1,10 @@
 _repo: The-ecclesiastical-architecture-of-Scotland-from-the-earliest-Christian-times-to-the-seventee__63978
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: The ecclesiastical architecture of Scotland from the earliest Christian
   times to the 17th century; vol. 2/3
+covers:
+- cover_type: archival
+  image_path: 63978-h/images/cover.jpg
 creator:
   authors:
   - agent_name: MacGibbon, David
@@ -15,6 +18,8 @@ creator:
     gutenberg_agent_id: '52668'
     url: http://www.gutenberg.org/2009/agents/52668
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63978#The-ecclesiastical-architecture-of-Scotland-from-the-earliest-Christian-times-to-the-seventee_
 gutenberg_issued: '2020-12-06'
 gutenberg_type: Text
 identifiers:
