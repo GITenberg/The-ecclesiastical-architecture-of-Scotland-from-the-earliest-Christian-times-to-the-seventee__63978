@@ -1,0 +1,32 @@
+_repo: The-ecclesiastical-architecture-of-Scotland-from-the-earliest-Christian-times-to-the-seventee__63978
+_version: 0.0.1
+alternative_title: The ecclesiastical architecture of Scotland from the earliest Christian
+  times to the 17th century; vol. 2/3
+creator:
+  authors:
+  - agent_name: MacGibbon, David
+    birthdate: 1831
+    deathdate: 1902
+    gutenberg_agent_id: '49875'
+    url: http://www.gutenberg.org/2009/agents/49875
+  - agent_name: Ross, Thomas
+    birthdate: 1839
+    deathdate: 1930
+    gutenberg_agent_id: '52668'
+    url: http://www.gutenberg.org/2009/agents/52668
+description: ''
+gutenberg_issued: '2020-12-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63978'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Church architecture -- Scotland'
+- !lcc 'NA'
+- GITenberg
+title: The ecclesiastical architecture of Scotland from the earliest Christian times
+  to the seventeenth century; vol. 2/3
+url: http://www.gutenberg.org/ebooks/63978
